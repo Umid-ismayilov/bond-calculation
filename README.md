@@ -5,9 +5,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/Umid-ismayilov/bond-calculation?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Umid-ismayilov/bond-calculation?style=social)
 
-## About Laravel
+## Project Haqqında
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Bu project 3 apidən ibarətdir.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
