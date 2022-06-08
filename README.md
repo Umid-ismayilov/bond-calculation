@@ -1,11 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![GitHub all releases](https://img.shields.io/github/downloads/Umid-ismayilov/bond-calculation/total)
+![GitHub language count](https://img.shields.io/github/languages/count/Umid-ismayilov/bond-calculation)
+![GitHub top language](https://img.shields.io/github/languages/top/Umid-ismayilov/bond-calculation?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Umid-ismayilov/bond-calculation)
+![GitHub forks](https://img.shields.io/github/forks/Umid-ismayilov/bond-calculation?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Umid-ismayilov/bond-calculation?style=social)
 
 ## About Laravel
 
